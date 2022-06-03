@@ -113,7 +113,7 @@ Claims:
     # Formula: maxCost - ( maxCost - minCost ) * multiplier ^ x
     LIMITED:
       maxCost: 10001.0
-      minCost: 10001.0
+      minCost: 100000.0
       multiplier: 1.0
 
 locationFormat: '%world% - (%x%|%z%)'

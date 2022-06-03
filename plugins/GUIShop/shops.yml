@@ -113,23 +113,23 @@ Fishing:
         '19':
           type: SHOP
           id: PUFFERFISH_BUCKET
-          sell-price: 3.0
+          sell-price: 4.0
         '20':
           type: SHOP
           id: COD_BUCKET
-          sell-price: 3.0
+          sell-price: 4.0
         '21':
           type: SHOP
           id: TROPICAL_FISH_BUCKET
-          sell-price: 3.0
+          sell-price: 4.0
         '22':
           type: SHOP
           id: AXOLOTL_BUCKET
-          sell-price: 3.0
+          sell-price: 4.0
         '23':
           type: SHOP
           id: HEART_OF_THE_SEA
-          sell-price: 3.0
+          sell-price: 50.0
         '24':
           type: SHOP
           id: NAUTILUS_SHELL
@@ -137,7 +137,7 @@ Fishing:
         '25':
           type: SHOP
           id: FISHING_ROD
-          sell-price: 3.0
+          sell-price: 2.0
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -147,31 +147,31 @@ Fishing:
         '28':
           type: SHOP
           id: PUFFERFISH
-          sell-price: 3.0
+          sell-price: 2.0
         '29':
           type: SHOP
           id: TROPICAL_FISH
-          sell-price: 3.0
+          sell-price: 2.0
         '30':
           type: SHOP
           id: SALMON
-          sell-price: 3.0
+          sell-price: 2.0
         '31':
           type: SHOP
           id: COD
-          sell-price: 3.0
+          sell-price: 2.0
         '32':
           type: SHOP
           id: NAME_TAG
-          sell-price: 3.0
+          sell-price: 15.0
         '33':
           type: SHOP
           id: SADDLE
-          sell-price: 3.0
+          sell-price: 20.0
         '34':
           type: SHOP
           id: LILY_PAD
-          sell-price: 3.0
+          sell-price: 0.5
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -181,11 +181,11 @@ Fishing:
         '37':
           type: SHOP
           id: INK_SAC
-          sell-price: 3.0
+          sell-price: 0.1
         '38':
           type: SHOP
           id: GLOW_INK_SAC
-          sell-price: 3.0
+          sell-price: 0.1
         '39':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -299,27 +299,27 @@ Raiding:
         '20':
           type: SHOP
           id: REDSTONE_BLOCK
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: DISPENSER
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: LEVER
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: STONE_BUTTON
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: STONE_PRESSURE_PLATE
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: REDSTONE_TORCH
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -329,27 +329,27 @@ Raiding:
         '28':
           type: SHOP
           id: REDSTONE
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: WATER_BUCKET
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: LAVA_BUCKET
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: STONE_SLAB
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: TNT
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: FIRE_CHARGE
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -475,31 +475,31 @@ Ores:
         '19':
           type: SHOP
           id: EMERALD
-          sell-price: 3.0
+          sell-price: 25.0
         '20':
           type: SHOP
           id: DIAMOND
-          sell-price: 3.0
+          sell-price: 100.0
         '21':
           type: SHOP
           id: GOLD_INGOT
-          sell-price: 3.0
+          sell-price: 35.0
         '22':
           type: SHOP
           id: IRON_INGOT
-          sell-price: 3.0
+          sell-price: 20.0
         '23':
           type: SHOP
           id: COAL
-          sell-price: 3.0
+          sell-price: 5.0
         '24':
           type: SHOP
           id: QUARTZ
-          sell-price: 3.0
+          sell-price: 1.5
         '25':
           type: SHOP
           id: LAPIS_LAZULI
-          sell-price: 3.0
+          sell-price: 3.5
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -509,31 +509,31 @@ Ores:
         '28':
           type: SHOP
           id: EMERALD_ORE
-          sell-price: 3.0
+          sell-price: 250.0
         '29':
           type: SHOP
           id: DIAMOND_ORE
-          sell-price: 3.0
+          sell-price: 200.0
         '30':
           type: SHOP
           id: GOLD_ORE
-          sell-price: 3.0
+          sell-price: 70.0
         '31':
           type: SHOP
           id: IRON_ORE
-          sell-price: 3.0
+          sell-price: 40.0
         '32':
           type: SHOP
           id: COAL_ORE
-          sell-price: 3.0
+          sell-price: 10.0
         '33':
           type: SHOP
           id: NETHER_QUARTZ_ORE
-          sell-price: 3.0
+          sell-price: 7.0
         '34':
           type: SHOP
           id: LAPIS_ORE
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -656,37 +656,37 @@ EnchantedBooks:
         '19':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'DURA:1'
         '20':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'SHARP:1'
         '21':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'KNOCKBACK:1'
         '22':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'FIRE_ASPECT:1'
         '23':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'PROTECTION:1'
         '24':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'THORNS:1'
         '25':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'SILK_TOUCH:1'
         '26':
           id: BLUE_STAINED_GLASS_PANE
@@ -697,37 +697,37 @@ EnchantedBooks:
         '28':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'DURA:2'
         '29':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'SHARP:2'
         '30':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'KNOCKBACK:3'
         '31':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'FIRE_ASPECT:2'
         '32':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'PROTECTION:2'
         '33':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'THORNS:2'
         '34':
           type: SHOP
           id: ENCHANTED_BOOK
-          sell-price: 3.0
+          sell-price: 0.1
           enchantments: 'SILK_TOUCH:2'
         '35':
           id: RED_STAINED_GLASS_PANE
@@ -851,31 +851,31 @@ Farming:
         '19':
           type: SHOP
           id: OAK_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '20':
           type: SHOP
           id: SPRUCE_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '21':
           type: SHOP
           id: BIRCH_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '22':
           type: SHOP
           id: JUNGLE_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '23':
           type: SHOP
           id: ACACIA_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '24':
           type: SHOP
           id: DARK_OAK_SAPLING
-          sell-price: 3.0.0
+          sell-price: 1.5
         '25':
           type: SHOP
           id: FERN
-          sell-price: 3.0.0
+          sell-price: 1.5
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -885,31 +885,31 @@ Farming:
         '28':
           type: SHOP
           id: WHEAT_SEEDS
-          sell-price: 3.0.0
+          sell-price: 0.5
         '29':
           type: SHOP
           id: PUMPKIN_SEEDS
-          sell-price: 3.0.0
+          sell-price: 0.5
         '30':
           type: SHOP
           id: MELON_SEEDS
-          sell-price: 3.0.0
+          sell-price: 0.5
         '31':
           type: SHOP
           id: BEETROOT_SEEDS
-          sell-price: 3.0.0
+          sell-price: 0.5
         '32':
           type: SHOP
           id: SUGAR_CANE
-          sell-price: 3.0.0
+          sell-price: 0.5
         '33':
           type: SHOP
           id: CACTUS
-          sell-price: 3.0.0
+          sell-price: 0.6
         '34':
           type: SHOP
           id: RED_MUSHROOM
-          sell-price: 3.0.0
+          sell-price: 0.5
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1032,31 +1032,31 @@ Shulker:
         '19':
           type: SHOP
           id: BLACK_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: WHITE_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: BLUE_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: BROWN_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: CYAN_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: GRAY_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: GREEN_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1066,31 +1066,31 @@ Shulker:
         '28':
           type: SHOP
           id: LIGHT_BLUE_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: LIGHT_GRAY_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: LIME_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: MAGENTA_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: ORANGE_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: PINK_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: PURPLE_SHULKER_BOX
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1213,31 +1213,31 @@ Brewing:
         '19':
           type: SHOP
           id: GHAST_TEAR
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: SPIDER_EYE
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: FERMENTED_SPIDER_EYE
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: GOLDEN_CARROT
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: GLISTERING_MELON_SLICE
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: BLAZE_POWDER
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: NETHER_WART
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1247,31 +1247,31 @@ Brewing:
         '28':
           type: SHOP
           id: MAGMA_CREAM
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: BREWING_STAND
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: CAULDRON
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: GLASS_BOTTLE
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: RABBIT_FOOT
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: PHANTOM_MEMBRANE
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: PUFFERFISH
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1367,37 +1367,37 @@ Gear:
         '10':
           type: SHOP
           id: LEATHER_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '11':
           type: SHOP
           id: CHAINMAIL_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '12':
           type: SHOP
           id: IRON_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '13':
           type: SHOP
           id: GOLDEN_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '14':
           type: SHOP
           id: DIAMOND_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '15':
           type: SHOP
           id: NETHERITE_HELMET
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '16':
           type: SHOP
           id: IRON_SWORD
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
           enchantments: 'SHARP:1 UNBREAKING:1'
         '17':
@@ -1409,37 +1409,37 @@ Gear:
         '19':
           type: SHOP
           id: LEATHER_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '20':
           type: SHOP
           id: CHAINMAIL_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '21':
           type: SHOP
           id: IRON_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '22':
           type: SHOP
           id: GOLDEN_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '23':
           type: SHOP
           id: DIAMOND_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '24':
           type: SHOP
           id: NETHERITE_CHESTPLATE
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '25':
           type: SHOP
           id: GOLDEN_SWORD
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
           enchantments: 'SHARP:1 UNBREAKING:1'
         '26':
@@ -1451,37 +1451,37 @@ Gear:
         '28':
           type: SHOP
           id: LEATHER_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '29':
           type: SHOP
           id: CHAINMAIL_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '30':
           type: SHOP
           id: IRON_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '31':
           type: SHOP
           id: GOLDEN_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '32':
           type: SHOP
           id: DIAMOND_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '33':
           type: SHOP
           id: NETHERITE_LEGGINGS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '34':
           type: SHOP
           id: DIAMOND_SWORD
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
           enchantments: 'SHARP:1 UNBREAKING:1'
         '35':
@@ -1493,37 +1493,37 @@ Gear:
         '37':
           type: SHOP
           id: LEATHER_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '38':
           type: SHOP
           id: CHAINMAIL_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '39':
           type: SHOP
           id: IRON_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '40':
           type: SHOP
           id: GOLDEN_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '41':
           type: SHOP
           id: DIAMOND_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '42':
           type: SHOP
           id: NETHERITE_BOOTS
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
         '43':
           type: SHOP
           id: NETHERITE_SWORD
-          sell-price: 3.0
+          sell-price: 0.1
           quantity: false
           enchantments: 'SHARP:1 UNBREAKING:1'
         '44':
@@ -1621,43 +1621,43 @@ Spawners:
         '19':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Creeper Spawner
           mob-type: 'CREEPER'
         '20':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Skeleton Spawner
           mob-type: 'SKELETON'
         '21':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Spider Spawner
           mob-type: 'SPIDER'
         '22':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Giant Zombie Spawner
           mob-type: 'GIANT'
         '23':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Zombie Spawner
           mob-type: 'ZOMBIE'
         '24':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Slime Spawner
           mob-type: 'SLIME'
         '25':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Ghast Spawner
           mob-type: 'GHAST'
         '26':
@@ -1669,43 +1669,43 @@ Spawners:
         '28':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Zombie Pigman Spawner
           mob-type: 'ZOMBIE_PIGMAN'
         '29':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Enderman Spawner
           mob-type: 'ENDERMAN'
         '30':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Cave Spider Spawner
           mob-type: 'CAVE_SPIDER'
         '31':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Ocelot Spawner
           mob-type: 'OCELOT'
         '32':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Wolf Spawner
           mob-type: 'WOLF'
         '33':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Bat Spawner
           mob-type: 'BAT'
         '34':
           type: SHOP
           id: SPAWNER
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Fox Spawner
           mob-type: 'FOX'
         '35':
@@ -1773,183 +1773,183 @@ Blocks:
         '0':
           type: SHOP
           id: STONE_BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '1':
           type: SHOP
           id: MOSSY_STONE_BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '2':
           type: SHOP
           id: CRACKED_STONE_BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '3':
           type: SHOP
           id: CHISELED_STONE_BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '4':
           type: SHOP
           id: STONE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '5':
           type: SHOP
           id: COBBLESTONE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '6':
           type: SHOP
           id: MOSSY_COBBLESTONE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '7':
           type: SHOP
           id: MYCELIUM
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '8':
           type: SHOP
           id: GRASS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '9':
           type: SHOP
           id: DIRT
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '10':
           type: SHOP
           id: OAK_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '11':
           type: SHOP
           id: SPRUCE_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '12':
           type: SHOP
           id: BIRCH_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '13':
           type: SHOP
           id: JUNGLE_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '14':
           type: SHOP
           id: ACACIA_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '15':
           type: SHOP
           id: DARK_OAK_LOG
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '16':
           type: SHOP
           id: SPONGE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '17':
           type: SHOP
           id: BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '18':
           type: SHOP
           id: MAGMA_BLOCK
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '19':
           type: SHOP
           id: PRISMARINE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '20':
           type: SHOP
           id: PRISMARINE_BRICKS
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '21':
           type: SHOP
           id: DARK_PRISMARINE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '22':
           type: SHOP
           id: WHITE_WOOL
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '23':
           type: SHOP
           id: CLAY
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '24':
           type: SHOP
           id: LIGHT_BLUE_TERRACOTTA
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '25':
           type: SHOP
           id: OBSIDIAN
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '26':
           type: SHOP
           id: SANDSTONE
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '27':
           type: SHOP
           id: SAND
-          sell-price: 3.0.0
+          sell-price: 0.1.0
         '28':
           type: SHOP
           id: RED_SAND
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: GRAVEL
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: QUARTZ_BLOCK
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: CHISELED_QUARTZ_BLOCK
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: QUARTZ_PILLAR
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: NETHER_BRICK
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           type: SHOP
           id: NETHERRACK
-          sell-price: 3.0
+          sell-price: 0.1
         '36':
           type: SHOP
           id: SOUL_SAND
-          sell-price: 3.0
+          sell-price: 0.1
         '37':
           type: SHOP
           id: GLOWSTONE
-          sell-price: 3.0
+          sell-price: 0.1
         '38':
           type: SHOP
           id: ENCHANTING_TABLE
-          sell-price: 3.0
+          sell-price: 0.1
         '39':
           type: SHOP
           id: BOOKSHELF
-          sell-price: 3.0
+          sell-price: 0.1
         '40':
           type: SHOP
           id: SNOW_BLOCK
-          sell-price: 3.0
+          sell-price: 0.1
         '41':
           type: SHOP
           id: ICE
-          sell-price: 3.0
+          sell-price: 0.1
         '42':
           type: SHOP
           id: PACKED_ICE
-          sell-price: 3.0
+          sell-price: 0.1
         '43':
           type: SHOP
           id: END_STONE
-          sell-price: 3.0
+          sell-price: 0.1
         '44':
           type: SHOP
           id: BEACON
-          sell-price: 3.0
+          sell-price: 0.1
         '45':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1982,183 +1982,183 @@ Blocks:
         '0':
           type: SHOP
           id: WHITE_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '1':
           type: SHOP
           id: ORANGE_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '2':
           type: SHOP
           id: MAGENTA_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '3':
           type: SHOP
           id: LIGHT_BLUE_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '4':
           type: SHOP
           id: YELLOW_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '5':
           type: SHOP
           id: LIME_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '6':
           type: SHOP
           id: PINK_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '7':
           type: SHOP
           id: GRAY_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '8':
           type: SHOP
           id: LIGHT_GRAY_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '9':
           type: SHOP
           id: CYAN_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '10':
           type: SHOP
           id: PURPLE_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '11':
           type: SHOP
           id: BLUE_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '12':
           type: SHOP
           id: BROWN_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '13':
           type: SHOP
           id: GREEN_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '14':
           type: SHOP
           id: RED_WOOL
-          sell-price: 3.0
+          sell-price: 0.1
         '15':
           type: SHOP
           id: WHITE_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '16':
           type: SHOP
           id: ORANGE_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '17':
           type: SHOP
           id: MAGENTA_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '18':
           type: SHOP
           id: LIGHT_BLUE_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '19':
           type: SHOP
           id: YELLOW_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: LIME_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: PINK_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: GRAY_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: LIGHT_GRAY_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: CYAN_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: PURPLE_STAINED_GLASS
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           type: SHOP
           id: OAK_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '27':
           type: SHOP
           id: SPRUCE_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '28':
           type: SHOP
           id: BIRCH_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: JUNGLE_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: DARK_OAK_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: ACACIA_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: STRIPPED_OAK_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: STRIPPED_SPRUCE_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: STRIPPED_BIRCH_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           type: SHOP
           id: STRIPPED_JUNGLE_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '36':
           type: SHOP
           id: STRIPPED_ACACIA_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '37':
           type: SHOP
           id: STRIPPED_DARK_OAK_LOG
-          sell-price: 3.0
+          sell-price: 0.1
         '38':
           type: SHOP
           id: STRIPPED_CRIMSON_STEM
-          sell-price: 3.0
+          sell-price: 0.1
         '39':
           type: SHOP
           id: STRIPPED_WARPED_STEM
-          sell-price: 3.0
+          sell-price: 0.1
         '40':
           type: SHOP
           id: STRIPPED_OAK_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '41':
           type: SHOP
           id: STRIPPED_SPRUCE_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '42':
           type: SHOP
           id: STRIPPED_BIRCH_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '43':
           type: SHOP
           id: STRIPPED_JUNGLE_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '44':
           type: SHOP
           id: STRIPPED_ACACIA_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '45':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -2191,171 +2191,171 @@ Blocks:
         '0':
           type: SHOP
           id: STRIPPED_DARK_OAK_WOOD
-          sell-price: 3.0
+          sell-price: 0.1
         '1':
           type: SHOP
           id: STRIPPED_CRIMSON_HYPHAE
-          sell-price: 3.0
+          sell-price: 0.1
         '2':
           type: SHOP
           id: STRIPPED_WARPED_HYPHAE
-          sell-price: 3.0
+          sell-price: 0.1
         '3':
           type: SHOP
           id: BLACKSTONE
-          sell-price: 3.0
+          sell-price: 0.1
         '4':
           type: SHOP
           id: POLISHED_BLACKSTONE
-          sell-price: 3.0
+          sell-price: 0.1
         '5':
           type: SHOP
           id: CHISELED_POLISHED_BLACKSTONE
-          sell-price: 3.0
+          sell-price: 0.1
         '6':
           type: SHOP
           id: POLISHED_BLACKSTONE_BRICKS
-          sell-price: 3.0
+          sell-price: 0.1
         '7':
           type: SHOP
           id: CRACKED_POLISHED_BLACKSTONE_BRICKS
-          sell-price: 3.0
+          sell-price: 0.1
         '8':
           type: SHOP
           id: WHITE_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '9':
           type: SHOP
           id: ORANGE_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '10':
           type: SHOP
           id: MAGENTA_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '11':
           type: SHOP
           id: LIGHT_BLUE_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '12':
           type: SHOP
           id: YELLOW_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '13':
           type: SHOP
           id: LIME_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '14':
           type: SHOP
           id: PINK_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '15':
           type: SHOP
           id: GRAY_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '16':
           type: SHOP
           id: LIGHT_GRAY_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '17':
           type: SHOP
           id: CYAN_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '18':
           type: SHOP
           id: PURPLE_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '19':
           type: SHOP
           id: BLUE_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: BROWN_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: GREEN_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: RED_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: BLACK_TERRACOTTA
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: WHITE_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: ORANGE_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           type: SHOP
           id: MAGENTA_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '27':
           type: SHOP
           id: LIGHT_BLUE_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '28':
           type: SHOP
           id: YELLOW_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: LIME_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: PINK_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: GRAY_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: LIGHT_GRAY_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: CYAN_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: PURPLE_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           type: SHOP
           id: BLUE_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '36':
           type: SHOP
           id: BROWN_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '37':
           type: SHOP
           id: GREEN_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '38':
           type: SHOP
           id: RED_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '39':
           type: SHOP
           id: BLACK_CONCRETE
-          sell-price: 3.0
+          sell-price: 0.1
         '40':
           type: SHOP
           id: SEA_LANTERN
-          sell-price: 3.0
+          sell-price: 0.1
         '41':
           type: SHOP
           id: PACKED_ICE
-          sell-price: 3.0
+          sell-price: 0.1
         '42':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -2458,49 +2458,49 @@ Heads:
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '3711f92c-4212-4356-934d-fcc59083ca50'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Bryces Head
           buy-name: Bryces Head
         '20':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: 'bb6bccb6-cd90-4844-9b1b-60722b1823ae'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Vajoners Head
           buy-name: Vajoners Head
         '21':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: 'ed5f12cd-6007-45d9-a4b9-940524ddaecf'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: A248s Head
           buy-name: A248s Head
         '22':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '069a79f4-44e9-4726-a5be-fca90e38aaf5'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Notchs Head
           buy-name: Notchs Head
         '23':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '853c80ef-3c37-49fd-aa49-938b674adae6'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Jeb_s Head
           buy-name: Jeb_s Head
         '24':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: 'f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Herobrines Head
           buy-name: Herobrines Head
         '25':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '5a609df0-6f84-49db-b6a1-6611c45f9a9f'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Wookies Head
           buy-name: Wookies Head
         '26':
@@ -2513,49 +2513,49 @@ Heads:
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '2cec9e03-ae37-43ba-b95f-a396d10091c4'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: SpongeBobs Head
           buy-name: SpongeBobs Head
         '29':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '34dccaa9-853c-413d-8156-786056aa3bb7'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Squidwards Head
           buy-name: Squidwards Head
         '30':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '64e57200-4023-48fa-a197-784601febb25'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Zoidbergs Head
           buy-name: Zoidbergs Head
         '31':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '97fa390e-2ca1-49a8-a7dd-33dec5f41a1e'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Farnsworths Head
           buy-name: Farnsworths Head
         '32':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: 'e4cfa992-ba39-4a2d-87dc-2cfcd90c8263'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Darth Vaders Head
           buy-name: Darth Vaders Head
         '33':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: '288a1026-fc1c-430b-a0cc-1e8c782c2a02'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: Anakins Head
           buy-name: Anakins Head
         '34':
           type: SHOP
           id: PLAYER_HEAD
           skull-uuid: 'f141191a-0001-465a-9ebf-f142378b6c59'
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: R2D2s Head
           buy-name: R2D2s Head
         '35':
@@ -2680,7 +2680,7 @@ Potions:
         '19':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: INSTANT_HEAL
             splash: false
@@ -2689,7 +2689,7 @@ Potions:
         '20':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: INSTANT_DAMAGE
             splash: false
@@ -2698,7 +2698,7 @@ Potions:
         '21':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: FIRE_RESISTANCE
             splash: false
@@ -2707,7 +2707,7 @@ Potions:
         '22':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: REGEN
             splash: false
@@ -2716,7 +2716,7 @@ Potions:
         '23':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: STRENGTH
             splash: false
@@ -2725,7 +2725,7 @@ Potions:
         '24':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: SPEED
             splash: false
@@ -2734,7 +2734,7 @@ Potions:
         '25':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: NIGHT_VISION
             splash: false
@@ -2749,7 +2749,7 @@ Potions:
         '28':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: INSTANT_HEAL
             splash: true
@@ -2758,7 +2758,7 @@ Potions:
         '29':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: INSTANT_DAMAGE
             splash: true
@@ -2767,7 +2767,7 @@ Potions:
         '30':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: FIRE_RESISTANCE
             splash: true
@@ -2776,7 +2776,7 @@ Potions:
         '31':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: REGEN
             splash: true
@@ -2785,7 +2785,7 @@ Potions:
         '32':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: STRENGTH
             splash: true
@@ -2794,7 +2794,7 @@ Potions:
         '33':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: SPEED
             splash: true
@@ -2803,7 +2803,7 @@ Potions:
         '34':
           type: SHOP
           id: POTION
-          sell-price: 3.0
+          sell-price: 0.1
           potion-info:
             type: NIGHT_VISION
             splash: true
@@ -2931,37 +2931,37 @@ Fireworks:
         '19':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;11743532,2437522],FadeColors:[I;1973019,15790320]}]}}'
         '20':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;3887386,14188952],FadeColors:[I;8073150,6719955]}]}}'
         '21':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;1973019,2651799,14188952,4312372],FadeColors:[I;4312372,14602026,15790320]}]}}'
         '22':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;8073150,14188952],FadeColors:[I;12801229,15435844]}]}}'
         '23':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;11743532,2437522,2651799,4312372,12801229,15435844],FadeColors:[I;3887386,5320730,2437522,11250603,15790320]}]}}'
         '24':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;11743532,5320730,14188952,15790320],FadeColors:[I;11743532,2437522,14188952,4312372]}]}}'
         '25':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:0,Flicker:1,Trail:1,Colors:[I;11743532,3887386,2437522,8073150,2651799,4408131,14188952,4312372,14602026,12801229,15435844],FadeColors:[I;11743532,3887386,2437522,8073150,2651799,4408131,14188952,4312372,14602026,12801229,15435844]}]}}'
         '26':
           id: BLUE_STAINED_GLASS_PANE
@@ -2972,37 +2972,37 @@ Fireworks:
         '28':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532,2437522],FadeColors:[I;1973019,15790320]}]}}'
         '29':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;3887386,14188952],FadeColors:[I;8073150,6719955]}]}}'
         '30':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;1973019,2651799,14188952,4312372],FadeColors:[I;4312372,14602026,15790320]}]}}'
         '31':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;8073150,14188952],FadeColors:[I;12801229,15435844]}]}}'
         '32':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532,2437522,2651799,4312372,12801229,15435844],FadeColors:[I;3887386,5320730,2437522,11250603,15790320]}]}}'
         '33':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532,5320730,14188952,15790320],FadeColors:[I;11743532,2437522,14188952,4312372]}]}}'
         '34':
           type: SHOP
           id: FIREWORK_ROCKET
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Fireworks:{Flight:2,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532,3887386,2437522,8073150,2651799,4408131,14188952,4312372,14602026,12801229,15435844],FadeColors:[I;11743532,3887386,2437522,8073150,2651799,4408131,14188952,4312372,14602026,12801229,15435844]}]}}'
         '35':
           id: RED_STAINED_GLASS_PANE
@@ -3126,43 +3126,43 @@ Chests:
         '19':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&6Golden Apple &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"golden_apple",Count:64}]}}'
         '20':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&fDirt &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"dirt",Count:64}]}}'
         '21':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&7Stone &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"stone",Count:64}]}}'
         '22':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&eWood &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"oak_planks",Count:64}]}}'
         '23':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&9Obsidian &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"obsidian",Count:64}]}}'
         '24':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&4TNT &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"tnt",Count:64}]}}'
         '25':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&4Redstone Block &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"redstone_block",Count:64},{Slot:1,id:"redstone_block",Count:64}]}}'
         '26':
@@ -3174,43 +3174,43 @@ Chests:
         '28':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&eOak Log &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"oak_log",Count:64},{Slot:1,id:"oak_log",Count:64}]}}'
         '29':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&eSand &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"sand",Count:64}]}}'
         '30':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&2Grass &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"grass_block",Count:64}]}}'
         '31':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&2Cactus &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"cactus",Count:64}]}}'
         '32':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&8Cobweb &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"cobweb",Count:64}]}}'
         '33':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&bCake &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"cake",Count:64}]}}'
         '34':
           type: SHOP
           id: CHEST
-          sell-price: 3.0
+          sell-price: 0.1
           shop-name: "&6Carrot &rPre-Filled Chest"
           custom-nbt: '{BlockEntityTag:{Items:[{Slot:0,id:"carrot",Count:64}]}}'
         '35':
@@ -3335,36 +3335,36 @@ Bow:
         '19':
           type: SHOP
           id: BOW
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:night_vision"}'
         '21':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:slowness"}'
         '22':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:harming"}'
         '23':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:poison"}'
         '24':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:slow_falling"}'
         '25':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:weakness"}'
         '26':
           id: BLUE_STAINED_GLASS_PANE
@@ -3375,37 +3375,37 @@ Bow:
         '28':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:invisibility"}'
         '29':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:leaping"}'
         '30':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:swiftness"}'
         '31':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:fire_resistance"}'
         '32':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:water_breathing"}'
         '33':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:healing"}'
         '34':
           type: SHOP
           id: TIPPED_ARROW
-          sell-price: 3.0
+          sell-price: 0.1
           custom-nbt: '{Potion: "minecraft:regeneration"}'
         '35':
           id: RED_STAINED_GLASS_PANE
@@ -3529,31 +3529,31 @@ Eggs:
         '19':
           type: SHOP
           id: SILVERFISH_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: SKELETON_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: SPIDER_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: VILLAGER_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: ZOMBIE_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: SLIME_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: GHAST_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -3563,31 +3563,31 @@ Eggs:
         '28':
           type: SHOP
           id: ZOMBIE_PIGMAN_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: ENDERMAN_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: CAVE_SPIDER_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: OCELOT_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: WOLF_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: BAT_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: FOX_SPAWN_EGG
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -3710,31 +3710,31 @@ Flowers:
         '19':
           type: SHOP
           id: POPPY
-          sell-price: 3.0
+          sell-price: 0.1
         '20':
           type: SHOP
           id: DANDELION
-          sell-price: 3.0
+          sell-price: 0.1
         '21':
           type: SHOP
           id: BLUE_ORCHID
-          sell-price: 3.0
+          sell-price: 0.1
         '22':
           type: SHOP
           id: ALLIUM
-          sell-price: 3.0
+          sell-price: 0.1
         '23':
           type: SHOP
           id: AZURE_BLUET
-          sell-price: 3.0
+          sell-price: 0.1
         '24':
           type: SHOP
           id: RED_TULIP
-          sell-price: 3.0
+          sell-price: 0.1
         '25':
           type: SHOP
           id: ORANGE_TULIP
-          sell-price: 3.0
+          sell-price: 0.1
         '26':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -3744,31 +3744,31 @@ Flowers:
         '28':
           type: SHOP
           id: WHITE_TULIP
-          sell-price: 3.0
+          sell-price: 0.1
         '29':
           type: SHOP
           id: PINK_TULIP
-          sell-price: 3.0
+          sell-price: 0.1
         '30':
           type: SHOP
           id: OXEYE_DAISY
-          sell-price: 3.0
+          sell-price: 0.1
         '31':
           type: SHOP
           id: CORNFLOWER
-          sell-price: 3.0
+          sell-price: 0.1
         '32':
           type: SHOP
           id: LILY_OF_THE_VALLEY
-          sell-price: 3.0
+          sell-price: 0.1
         '33':
           type: SHOP
           id: BROWN_MUSHROOM
-          sell-price: 3.0
+          sell-price: 0.1
         '34':
           type: SHOP
           id: CRIMSON_FUNGUS
-          sell-price: 3.0
+          sell-price: 0.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
