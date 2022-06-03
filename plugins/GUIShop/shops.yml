@@ -533,7 +533,7 @@ Ores:
         '34':
           type: SHOP
           id: LAPIS_ORE
-          sell-price: 0.1
+          sell-price: 7.1
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
