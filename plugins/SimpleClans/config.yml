@@ -70,8 +70,8 @@ war-and-protection:
       BREAK:
       - EMERALD_BLOCK
   set-base-only-in-land: false
-  war-normal-expiration-time: 0
-  war-disconnect-expiration-time: 0
+  war-normal-expiration-time: 4
+  war-disconnect-expiration-time: 4
   edit-all-lands: false
   land-creation:
     only-leaders: true
@@ -84,8 +84,8 @@ war-and-protection:
     DAMAGE: true
     INTERACT_ENTITY: true
   war-start:
-    request-enabled: true
-    members-online-max-difference: 5
+    request-enabled: false
+    members-online-max-difference: 2
 kdr-grinding-prevention:
   enable-max-kills: false
   max-kills-per-victim: 5
