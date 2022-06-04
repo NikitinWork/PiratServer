@@ -473,7 +473,7 @@ Ores:
         '18':
           type: SHOP
           id: copper_ingot
-          sell-price: 15.0
+          sell-price: 5.0
         '19':
           type: SHOP
           id: EMERALD
@@ -2414,8 +2414,9 @@ Blocks:
           id: mossy_cobblestone
           sell-price: 0.15
         '1':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: cobbled_deepslate
+          sell-price: 0.1
         '2':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -3926,8 +3927,9 @@ Eat:
           id: chorus_fruit
           sell-price: 0.2
         '29':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: carrot
+          sell-price: 0.6
         '30':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
