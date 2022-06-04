@@ -471,8 +471,9 @@ Ores:
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
         '18':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: copper_ingot
+          sell-price: 15.0
         '19':
           type: SHOP
           id: EMERALD
