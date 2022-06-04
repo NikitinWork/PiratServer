@@ -144,8 +144,9 @@ Menu:
           id: BLUE_STAINED_GLASS_PANE
           name: ' '
         '39':
-          id: RED_STAINED_GLASS_PANE
-          name: ' '
+          id: melon_slice
+          name: '&4Eat &bShop'
+          target-shop: 'Eat'
         '40':
           id: FISHING_ROD
           name: '&4Fishing &bShop'
