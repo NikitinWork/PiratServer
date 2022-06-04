@@ -294,8 +294,9 @@ Raiding:
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
         '19':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: shulker_shell
+          sell-price: 100.0
         '20':
           type: SHOP
           id: REDSTONE_BLOCK
@@ -1289,7 +1290,7 @@ Brewing:
           shop-name: ' '
         '37':
           type: SHOP
-          id: glowstone
+          id: glowstone_dust
           sell-price: 0.15
         '38':
           id: BLUE_STAINED_GLASS_PANE
