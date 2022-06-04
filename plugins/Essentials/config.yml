@@ -902,7 +902,7 @@ chat:
   # {TEAMSUFFIX} - The sender's scoreboard team suffix.
 
   #format: '<{DISPLAYNAME}> {MESSAGE}'
-  format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
+  format: '&a[{GROUP}]&r {DISPLAYNAME}&a:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
   group-formats:
