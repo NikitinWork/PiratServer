@@ -635,8 +635,9 @@ EnchantedBooks:
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
         '10':
-          id: BLUE_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: book
+          sell-price: 2.5
         '11':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
@@ -1287,8 +1288,9 @@ Brewing:
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
         '37':
-          id: RED_STAINED_GLASS_PANE
-          shop-name: ' '
+          type: SHOP
+          id: glowstone
+          sell-price: 0.15
         '38':
           id: BLUE_STAINED_GLASS_PANE
           shop-name: ' '
@@ -3922,29 +3924,23 @@ Eat:
           id: chorus_fruit
           sell-price: 0.2
         '29':
-          type: SHOP
-          id: PINK_TULIP
-          sell-price: 0.1
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
         '30':
-          type: SHOP
-          id: OXEYE_DAISY
-          sell-price: 0.1
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
         '31':
-          type: SHOP
-          id: CORNFLOWER
-          sell-price: 0.1
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
         '32':
-          type: SHOP
-          id: LILY_OF_THE_VALLEY
-          sell-price: 0.1
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
         '33':
-          type: SHOP
-          id: BROWN_MUSHROOM
-          sell-price: 0.1
+          id: RED_STAINED_GLASS_PANE
+          shop-name: ' '
         '34':
-          type: SHOP
-          id: CRIMSON_FUNGUS
-          sell-price: 0.1
+          id: BLUE_STAINED_GLASS_PANE
+          shop-name: ' '
         '35':
           id: RED_STAINED_GLASS_PANE
           shop-name: ' '
