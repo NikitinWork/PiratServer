@@ -87,12 +87,12 @@ Claims:
   # amount of free claims a user should be able to receive for free.
   free: 0
   calc:
-    function: EXPONENTIAL
+    function: LINEAR
     # x is the amount of owned claims (/ll claims)!
     # Formula: minCost + multiplier * x
     LINEAR:
-      minCost: 500.0
-      multiplier: 1.0
+      minCost: 10000.0
+      multiplier: 10000.0
     # Formula: minCost + multiplier * x ^ exponent
     EXPONENTIAL:
       minCost: 10000.0
