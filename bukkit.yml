@@ -21,7 +21,7 @@ chunk-gc:
   period-in-ticks: 6000
 ticks-per:
   animal-spawns: 200
-  monster-spawns: 100
+  monster-spawns: 5
   water-spawns: 100
   water-ambient-spawns: 100
   water-underground-creature-spawns: 100
