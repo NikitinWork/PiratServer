@@ -22,7 +22,7 @@ settings:
   keep-items-on-clan-home: false
   item-list: []
   show-debug-info: false
-  enable-auto-groups: true
+  enable-auto-groups: false
   chat-compatibility-mode: false
   rival-limit-percent: 50
   use-colorcode-from-prefix-for-name: true
