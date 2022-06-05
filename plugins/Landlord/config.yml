@@ -87,7 +87,7 @@ Claims:
   # amount of free claims a user should be able to receive for free.
   free: 0
   calc:
-    function: LIMITED
+    function: EXPONENTIAL
     # x is the amount of owned claims (/ll claims)!
     # Formula: minCost + multiplier * x
     LINEAR:
@@ -95,7 +95,7 @@ Claims:
       multiplier: 1.0
     # Formula: minCost + multiplier * x ^ exponent
     EXPONENTIAL:
-      minCost: 500.0
+      minCost: 10000.0
       multiplier: 1.0
       exponent: 2.0
     # Formula: minCost + multiplier * lg (b * x + c)
@@ -232,7 +232,7 @@ CommandSettings:
       - '----------------'
       - 'x--------------x'
     # When a player does not own any lands, he may claim any free chunk. later only adjacent chunks
-    claimOnlyAdjacent: true
+    claimOnlyAdjacent: false
     # If this is enabled, there must be one (or a custom amount) free chunk between two different owners. See https://tinyurl.com/y8xzelga
     needsGapBetweenOwners: false
     # radius
