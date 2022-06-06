@@ -101,11 +101,11 @@ commands:
   clan_chat: .
   force-priority: true
 economy:
-  creation-price: 1000.0
+  creation-price: 500.0
   purchase-clan-create: true
-  verification-price: 5000.0
+  verification-price: 500.0
   purchase-clan-verify: true
-  invite-price: 500.0
+  invite-price: 100.0
   purchase-clan-invite: true
   home-teleport-price: 99999999.0
   purchase-home-teleport: true
@@ -126,7 +126,7 @@ economy:
   member-fee-enabled: true
   member-fee-last-minute-change-interval: 8
   max-member-fee: 50000.0
-  upkeep: 1000.0
+  upkeep: 500.0
   upkeep-enabled: true
   multiply-upkeep-by-clan-size: true
   charge-upkeep-only-if-member-fee-enabled: false
