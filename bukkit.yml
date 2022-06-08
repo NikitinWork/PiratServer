@@ -18,7 +18,7 @@ spawn-limits:
   axolotls: 5
   ambient: 15
 chunk-gc:
-  period-in-ticks: 6000
+  period-in-ticks: 600
 ticks-per:
   animal-spawns: 400
   monster-spawns: 1
@@ -27,5 +27,5 @@ ticks-per:
   water-underground-creature-spawns: 1
   axolotl-spawns: 1
   ambient-spawns: 1
-  autosave: 15000
+  autosave: 6000
 aliases: now-in-commands.yml
