@@ -67,13 +67,13 @@ settings:
     tab-spam-limit: 500
   chunk-loading:
     min-load-radius: 2
-    max-concurrent-sends: 2
+    max-concurrent-sends: 20
     autoconfig-send-distance: false
-    target-player-chunk-send-rate: 100.0
+    target-player-chunk-send-rate: 10.0
     global-max-chunk-send-rate: -1.0
     enable-frustum-priority: false
     global-max-chunk-load-rate: -1.0
-    player-max-concurrent-loads: 5.0
+    player-max-concurrent-loads: 10.0
     global-max-concurrent-loads: 2000.0
     player-max-chunk-load-rate: -1.0
   velocity-support:
