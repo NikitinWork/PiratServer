@@ -19,7 +19,7 @@ settings:
   sample-count: 12
   user-cache-size: 1000
   timeout-time: 60
-  restart-on-crash: true
+  restart-on-crash: false
   restart-script: ./start.sh
   player-shuffle: 0
   log-villager-deaths: true
@@ -50,8 +50,8 @@ world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     verbose: false
-    simulation-distance: default
-    view-distance: default
+    simulation-distance: 5
+    view-distance: 5
     thunder-chance: 100000
     enable-zombie-pigmen-portal-spawns: true
     zombie-aggressive-towards-villager: true
@@ -62,14 +62,14 @@ world-settings:
     item-despawn-rate: 6000
     end-portal-sound-radius: 0
     nerf-spawner-mobs: false
-    mob-spawn-range: 8
+    mob-spawn-range: 5
     hanging-tick-frequency: 100
     dragon-death-sound-radius: 0
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     max-tick-time:
-      tile: 50
-      entity: 50
+      tile: 20
+      entity: 20
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -103,7 +103,7 @@ world-settings:
     entity-activation-range:
       animals: 32
       monsters: 32
-      raiders: 48
+      raiders: 32
       misc: 16
       water: 16
       villagers: 32
