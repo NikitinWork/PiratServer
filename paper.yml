@@ -338,7 +338,7 @@ world-settings:
           hide-itemmeta: false
           hide-durability: false
     feature-seeds:
-      generate-random-seeds-for-all: false
+      generate-random-seeds-for-all: true
     entity-per-chunk-save-limit:
       experience_orb: -1
       snowball: -1
