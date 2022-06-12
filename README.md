@@ -9,6 +9,7 @@
 Я рекомендую использовать клиент поддерживающий fabric
 
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3795645)
+- [WorldEdit CUI ](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3687499)
 
 
 ### Сервер моды
