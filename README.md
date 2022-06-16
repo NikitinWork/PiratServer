@@ -6,10 +6,11 @@
 
 ### Клиент моды 
 Эти моды ты должен закинуть себе в папку .minecraft/mods, для комфортной игры.
-Я рекомендую использовать клиент поддерживающий fabric
+Я рекомендую использовать клиент поддерживающий fabric ссылки для него.
 
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3795645)
 - [WorldEdit CUI ](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3687499)
+- [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft/download/3763384)
 
 
 ### Сервер моды
