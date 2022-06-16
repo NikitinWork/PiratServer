@@ -50,7 +50,7 @@ Claim-protection:
 #Set to 0 for no cooldown
 Cooldown:
   #Cooldown in seconds
-  seconds: 18000
+  seconds: 36000
   #In what format should be the remaining cooldown displayed
   #HOURS - Shows in hours if possible
   #MINUTES - Shows in minutes if possible
