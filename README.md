@@ -11,6 +11,7 @@
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3795645)
 - [WorldEdit CUI ](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3687499)
 - [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft/download/3763384)
+- [FABRIC IP](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3851928)
 
 
 ### Сервер моды
@@ -21,8 +22,16 @@
 
 - [Мод приватов](https://dev.bukkit.org/projects/worldguard)
 - [Вики с командами](https://minecraft.fandom.com/ru/wiki/WorldGuard)
+- [SKY BLOCK WIKI](https://bg-software.com/superiorskyblock/)
 
 ## Изменения в ванниле
+
+### Личный приват
+
+- На спавне есть вход в личный приват, для этого нужно встать внутрь квадрата и прописать команду /island create , /island home
+- Чтобы вернуться в нормальный мир /warp spawn
+
+![image](https://user-images.githubusercontent.com/43878577/179206729-d55f53d2-93b1-4023-8bf5-5bbb34b081da.png)
 
 
 ### Игровые изменения
