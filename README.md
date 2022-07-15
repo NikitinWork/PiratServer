@@ -1,6 +1,6 @@
 # PiratServer
 
-Сервер Minecraft версии 1.18.2, ядро пейпера.
+Сервер Minecraft версии 1.19, ядро пейпера.
 
 ## Моды и ссылки на них
 
@@ -8,10 +8,9 @@
 Эти моды ты должен закинуть себе в папку .minecraft/mods, для комфортной игры.
 Я рекомендую использовать клиент поддерживающий fabric ссылки для него.
 
-- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3795645)
-- [WorldEdit CUI ](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3687499)
-- [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft/download/3763384)
-- [FABRIC IP](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3851928)
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3872506)
+- [WorldEdit CUI ](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/download/3861076)
+- [FABRIC IP](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3851965)
 
 
 ### Сервер моды
