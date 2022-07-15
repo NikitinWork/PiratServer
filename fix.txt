@@ -3,14 +3,16 @@
 
 /rg flag __global__ exit-via-teleport deny
 
+/rg flag __global__ -w world deny-spawn phantom
+
 /rg flag __global__ -w world blocked-cmds /warp spawn- отключить команды в мире
 /rg flag __global__ -w world blocked-cmds /island,/island home,/warp spawn
 
 /rg flag __global__ -w world_nether blocked-cmds /island,/island home
-/rg flag __global__ -w world_nether blocked-cmds /warp spawn
+/rg flag __global__ -w world_nether blocked-cmds /island,/island home,/warp spawn
 
 /rg flag __global__ -w world_the_end blocked-cmds /island,/island home
-/rg flag __global__ -w world_the_end blocked-cmds /warp spawn
+/rg flag __global__ -w world_the_end blocked-cmds /island,/island home,/warp spawn
 
 
 
