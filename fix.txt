@@ -1,1 +1,0 @@
-/rg flag __global__ pvp allow
