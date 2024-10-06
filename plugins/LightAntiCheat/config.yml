@@ -403,7 +403,7 @@ checks:
           bedrock: true
     liquidwalk:
       liquidwalk_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 40
@@ -418,7 +418,7 @@ checks:
           java: true
           bedrock: true
       liquidwalk_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 40
@@ -434,7 +434,7 @@ checks:
           bedrock: true
     fastclimb:
       fastclimb_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 25
@@ -450,7 +450,7 @@ checks:
           bedrock: true
     noslow:
       noslow_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 25
@@ -466,7 +466,7 @@ checks:
           bedrock: true
     step:
       step_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -482,7 +482,7 @@ checks:
           bedrock: true
     boat:
       boat_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 35
@@ -498,7 +498,7 @@ checks:
           bedrock: true
     vehicle:
       vehicle_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 35
@@ -514,7 +514,7 @@ checks:
           bedrock: true
     elytra:
       elytra_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 40
@@ -529,7 +529,7 @@ checks:
           java: true
           bedrock: true
       elytra_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 40
@@ -544,7 +544,7 @@ checks:
           java: true
           bedrock: true
       elytra_c:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 12
@@ -560,7 +560,7 @@ checks:
           bedrock: true
     trident:
       trident_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -578,7 +578,7 @@ checks:
   combat:
     killaura:
       killaura_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 6
@@ -593,7 +593,7 @@ checks:
           java: true
           bedrock: true
       killaura_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 8
@@ -608,7 +608,7 @@ checks:
           java: true
           bedrock: true
       killaura_c:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 4
@@ -623,7 +623,7 @@ checks:
           java: true
           bedrock: true
       killaura_d:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 5
@@ -639,7 +639,7 @@ checks:
           bedrock: true
     reach:
       reach_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -654,7 +654,7 @@ checks:
           java: true
           bedrock: true
       reach_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 6
@@ -670,7 +670,7 @@ checks:
           bedrock: true
     criticals:
       criticals_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 1
@@ -685,7 +685,7 @@ checks:
           java: true
           bedrock: true
       criticals_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -701,7 +701,7 @@ checks:
           bedrock: true
     autoclicker:
       autoclicker_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -716,7 +716,7 @@ checks:
           java: true
           bedrock: true
       autoclicker_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -732,7 +732,7 @@ checks:
           bedrock: true
     velocity:
       velocity_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 12
@@ -750,7 +750,7 @@ checks:
   interaction:
     airplace:
       airplace_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -766,7 +766,7 @@ checks:
           bedrock: true
     fastplace:
       fastplace_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -782,7 +782,7 @@ checks:
           bedrock: true
     blockplace:
       blockplace_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -797,7 +797,7 @@ checks:
           java: true
           bedrock: true
       blockplace_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 5
@@ -813,7 +813,7 @@ checks:
           bedrock: true
     ghostbreak:
       ghostbreak_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -829,7 +829,7 @@ checks:
           bedrock: true
     fastbreak:
       fastbreak_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 15
@@ -845,7 +845,7 @@ checks:
           bedrock: true
     blockbreak:
       blockbreak_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -860,7 +860,7 @@ checks:
           java: true
           bedrock: true
       blockbreak_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 5
@@ -876,7 +876,7 @@ checks:
           bedrock: true
     scaffold:
       scaffold_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -891,7 +891,7 @@ checks:
           java: true
           bedrock: true
       scaffold_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -909,7 +909,7 @@ checks:
   packet:
     morepackets:
       morepackets_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 2
@@ -924,7 +924,7 @@ checks:
           java: true
           bedrock: true
       morepackets_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 2
@@ -940,7 +940,7 @@ checks:
           bedrock: true
     timer:
       timer_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -955,7 +955,7 @@ checks:
           java: true
           bedrock: true
       timer_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -971,7 +971,7 @@ checks:
           bedrock: true
     badpackets:
       badpackets_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 5
@@ -986,7 +986,7 @@ checks:
           java: true
           bedrock: true
       badpackets_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 20
@@ -1001,7 +1001,7 @@ checks:
           java: true
           bedrock: true
       badpackets_c:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 15
@@ -1016,7 +1016,7 @@ checks:
           java: true
           bedrock: true
       badpackets_d:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 10
@@ -1034,7 +1034,7 @@ checks:
   inventory:
     sorting:
       sorting_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -1050,7 +1050,7 @@ checks:
           bedrock: true
     itemswap:
       itemswap_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 4
@@ -1068,7 +1068,7 @@ checks:
   player:
     autobot:
       autobot_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
@@ -1084,7 +1084,7 @@ checks:
           bedrock: true
     skinblinker:
       skinblinker_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 2
